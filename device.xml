@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project path="device/xiaomi/chopin" name="Xiaomi-chopin-Development/vendor_xiaomi_chopin" remote="github" revision="arrow-11.0" />
-  <project path="device/xiaomi/chopin-prebuilts" name="Xiaomi-chopin-Development/device_xiaomi_chopin-prebuilts" remote="github" revision="arrow-11.0" />
-  <project path="vendor/xiaomi/chopin" name="Xiaomi-chopin-Development/vendor_xiaomi_chopin" remote="github" revision="arrow-11.0" />
+  <project path="device/xiaomi/chopin" name="Xiaomi-chopin-Development/device_xiaomi_chopin" remote="github" revision="arrow-11.0" />
+  <project path="device/sony/chopin-prebuilts" name="Xiaomi-chopin-Development/device_xiaomi_chopin-prebuilts" remote="github" revision="arrow-11.0" />
+  <project path="vendor/sony/chopin" name="Xiaomi-chopin-Development/vendor_xiaomi_chopin" remote="github" revision="arrow-11.0" />
 </manifest>
